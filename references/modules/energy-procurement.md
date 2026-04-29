@@ -1,5 +1,4 @@
-## Source: references/skills/energy-procurement/SKILL.md
-
+## Module: Energy Procurement
 ---
 name: energy-procurement
 description: Codified expertise for electricity and gas procurement, tariff optimisation, demand charge management, renewable PPA evaluation, and multi-facility energy cost management.

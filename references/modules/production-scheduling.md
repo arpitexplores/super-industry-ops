@@ -1,5 +1,4 @@
-## Source: references/skills/production-scheduling/SKILL.md
-
+## Module: Production Scheduling
 ---
 name: production-scheduling
 description: Codified expertise for production scheduling, job sequencing, line balancing, changeover optimisation, and bottleneck resolution in discrete and batch manufacturing.
@@ -219,7 +218,7 @@ Use this skill when you need to **design or adjust production schedules and cons
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: data-quality-frameworks
@@ -267,7 +266,7 @@ Production patterns for implementing data quality with Great Expectations, dbt t
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-manufacturing-advisor
@@ -371,7 +370,7 @@ Message Types:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: quality-nonconformance
@@ -611,8 +610,7 @@ Use this skill when you need to **run or improve non‑conformance and CAPA proc
 - Designing or auditing CAPA systems, SPC programmes, incoming inspection plans, and supplier quality governance.
 - Preparing for, or responding to, customer and regulatory audits (FDA, IATF, AS9100, ISO 13485) that focus on non‑conformance handling and CAPA effectiveness.
 
-## Source: references/skills/production-scheduling/references/legacy/data-quality-frameworks/SKILL.md
-
+## Imported Module: Data Quality Frameworks
 ---
 name: data-quality-frameworks
 description: "Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts."
@@ -657,8 +655,7 @@ Production patterns for implementing data quality with Great Expectations, dbt t
 
 - `resources/implementation-playbook.md` for detailed frameworks, templates, and examples.
 
-## Source: references/skills/production-scheduling/references/legacy/odoo-manufacturing-advisor/SKILL.md
-
+## Imported Module: Odoo Manufacturing Advisor
 ---
 name: odoo-manufacturing-advisor
 description: "Expert guide for Odoo Manufacturing: Bills of Materials (BoM), Work Centers, routings, MRP planning, and production order workflows."
@@ -759,8 +756,7 @@ Message Types:
 - **Lot/serial number traceability** in production (tracking which lot was consumed per MO) adds complexity; test with small batches before full rollout.
 - MRP calculations assume demand comes from **Sale Orders** and **Reordering Rules** — forecasts from external systems require custom integration.
 
-## Source: references/skills/production-scheduling/references/legacy/quality-nonconformance/SKILL.md
-
+## Imported Module: Quality Nonconformance
 ---
 name: quality-nonconformance
 description: Codified expertise for quality control, non-conformance investigation, root cause analysis, corrective action, and supplier quality management in regulated manufacturing.

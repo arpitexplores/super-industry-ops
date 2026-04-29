@@ -1,5 +1,4 @@
-## Source: references/skills/logistics-exception-management/SKILL.md
-
+## Module: Logistics Exception Management
 ---
 name: logistics-exception-management
 description: Codified expertise for handling freight exceptions, shipment delays, damages, losses, and carrier disputes. Informed by logistics professionals with 15+ years operational experience.
@@ -208,7 +207,7 @@ Use this skill when you need to **triage and resolve logistics exceptions or des
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: inventory-demand-planning
@@ -439,7 +438,7 @@ Use this skill when you need to **forecast demand and shape inventory policy acr
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-inventory-optimizer
@@ -553,8 +552,7 @@ Operations created automatically:
 - **Cross-warehouse stock transfers** have routing complexities (transit locations, intercompany invoicing) not fully covered here.
 - Automated inventory valuation requires the **Accounting** module; Community Edition installations without it cannot post stock journal entries.
 
-## Source: references/skills/logistics-exception-management/references/legacy/inventory-demand-planning/SKILL.md
-
+## Imported Module: Inventory Demand Planning
 ---
 name: inventory-demand-planning
 description: Codified expertise for demand forecasting, safety stock optimisation, replenishment planning, and promotional lift estimation at multi-location retailers.
@@ -782,8 +780,7 @@ Use this skill when you need to **forecast demand and shape inventory policy acr
 - Planning promotions, seasonal transitions, markdowns, and end‑of‑life strategies while balancing service, cash, and margin.
 - Investigating chronic stockouts, excess inventory, or forecast bias and redesigning the planning process with clearer decision frameworks.
 
-## Source: references/skills/logistics-exception-management/references/legacy/odoo-inventory-optimizer/SKILL.md
-
+## Imported Module: Odoo Inventory Optimizer
 ---
 name: odoo-inventory-optimizer
 description: "Expert guide for Odoo Inventory: stock valuation (FIFO/AVCO), reordering rules, putaway strategies, routes, and multi-warehouse configuration."
