@@ -85,13 +85,18 @@ This repository is part of the **SUPER Skills** series: standalone, installable 
 | [super-marketing-execution](https://github.com/arpitexplores/super-marketing-execution) | Campaign orchestration, CRO, copywriting, analytics, email, social, paid ads, and growth execution. |
 | [super-design-core](https://github.com/arpitexplores/super-design-core) | UI/UX, product design, design systems, frontend UI patterns, IA, flows, and visual systems. |
 | [super-ai-ml-agents](https://github.com/arpitexplores/super-ai-ml-agents) | AI agents, agent architecture, tool use, memory, orchestration, multi-agent systems, and guardrails. |
+| [super-ai-ml-foundation](https://github.com/arpitexplores/super-ai-ml-foundation) | Model selection, prompt engineering, RAG, embeddings, vector search, and production-ready AI app design. |
+| [super-ai-ml-ops](https://github.com/arpitexplores/super-ai-ml-ops) | LLM evaluation, monitoring, cost control, reliability, latency, release gates, and production AI governance. |
+| [super-automation](https://github.com/arpitexplores/super-automation) | SaaS workflows, API integrations, triggers, permissions, retries, monitoring, and GitHub automation. |
+| [super-cloud](https://github.com/arpitexplores/super-cloud) | AWS, Azure, GCP, infrastructure as code, Terraform, networking, containers, reliability, and cost optimisation. |
+| [super-engineering-devops](https://github.com/arpitexplores/super-engineering-devops) | Architecture, full-stack implementation, CI/CD, observability, incidents, testing, and reliability. |
+| [super-security](https://github.com/arpitexplores/super-security) | Security audits, threat modelling, web security testing, application security, API security, and remediation workflows. |
 
 Start with the skill that matches the task. Use the catalogue when you want to browse the full collection or install multiple skills.
 
 ### Additional SUPER Skills In The Catalogue
 
-The full catalogue also includes AI/ML foundation, AI/ML ops, automation, cloud, data analytics, design quality, engineering/DevOps, gaming/3D/media, healthcare/wellness, industry ops, legal/HR/compliance, marketing strategy, office/docs/presentation, product/business/finance, security, and specialised platform SDK skills.
-
+The full catalogue also includes data analytics, design quality, gaming/3D/media, healthcare/wellness, industry ops, legal/HR/compliance, marketing strategy, office/docs/presentation, product/business/finance, and specialised platform SDK skills.
 
 ## Version
 
