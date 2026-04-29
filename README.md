@@ -1,6 +1,20 @@
 # Super Industry Ops
 
+<!-- super-series-intro -->
+> The go-to AI vibe coding skill for industry operations: logistics, manufacturing, procurement, production scheduling, supply chain workflows, and operational quality.
+
+[View the full SUPER Skills catalogue](https://github.com/arpitexplores/skills-super).
+<!-- /super-series-intro -->
+
 Improve logistics, manufacturing, procurement, production scheduling, quality, and operational workflows.
+
+## Why SUPER Skills For AI Vibe Coding
+
+Super Industry Ops gives AI coding agents practical operational context for real-world workflows. Use it for logistics, manufacturing, procurement, production scheduling, quality checks, supply chain exceptions, and process improvement.
+
+These skills are designed for **AI vibe coding**: fast, agent-assisted building where the AI needs strong domain context, practical workflows, guardrails, and implementation-ready outputs.
+
+**SEO and discovery keywords:** industry operations, logistics, manufacturing, procurement, supply chain, production scheduling, operational quality, process improvement, AI vibe coding.
 
 ## Install
 
@@ -56,6 +70,28 @@ Use $super-industry-ops to help with this request.
 ## Compatibility
 
 This skill is plain Markdown and is intended to be agent-agnostic. If a bundled helper mentions a specific tool path, translate that instruction to the equivalent path for your environment.
+
+## SUPER Skills Series
+
+This repository is part of the **SUPER Skills** series: standalone, installable agent skills that can be used independently or together.
+
+### Published Series Repositories
+
+| Repository | Purpose |
+| --- | --- |
+| [skills-super](https://github.com/arpitexplores/skills-super) | Master catalogue for the full SUPER Skills collection: AI vibe coding skills, agent workflows, and installable Markdown skills. |
+| [super-seo-growth](https://github.com/arpitexplores/super-seo-growth) | AI SEO, GEO, LLM visibility, content optimisation, programmatic SEO, and citation readiness. |
+| [super-seo-foundation](https://github.com/arpitexplores/super-seo-foundation) | Technical SEO, SEO audits, crawlability, indexing, schema, sitemaps, hreflang, Core Web Vitals, and Google tooling. |
+| [super-marketing-execution](https://github.com/arpitexplores/super-marketing-execution) | Campaign orchestration, CRO, copywriting, analytics, email, social, paid ads, and growth execution. |
+| [super-design-core](https://github.com/arpitexplores/super-design-core) | UI/UX, product design, design systems, frontend UI patterns, IA, flows, and visual systems. |
+| [super-ai-ml-agents](https://github.com/arpitexplores/super-ai-ml-agents) | AI agents, agent architecture, tool use, memory, orchestration, multi-agent systems, and guardrails. |
+
+Start with the skill that matches the task. Use the catalogue when you want to browse the full collection or install multiple skills.
+
+### Additional SUPER Skills In The Catalogue
+
+The full catalogue also includes AI/ML foundation, AI/ML ops, automation, cloud, data analytics, design quality, engineering/DevOps, gaming/3D/media, healthcare/wellness, industry ops, legal/HR/compliance, marketing strategy, office/docs/presentation, product/business/finance, security, and specialised platform SDK skills.
+
 
 ## Version
 
