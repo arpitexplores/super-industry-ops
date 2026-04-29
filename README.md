@@ -91,12 +91,17 @@ This repository is part of the **SUPER Skills** series: standalone, installable 
 | [super-cloud](https://github.com/arpitexplores/super-cloud) | AWS, Azure, GCP, infrastructure as code, Terraform, networking, containers, reliability, and cost optimisation. |
 | [super-engineering-devops](https://github.com/arpitexplores/super-engineering-devops) | Architecture, full-stack implementation, CI/CD, observability, incidents, testing, and reliability. |
 | [super-security](https://github.com/arpitexplores/super-security) | Security audits, threat modelling, web security testing, application security, API security, and remediation workflows. |
+| [super-data-analytics](https://github.com/arpitexplores/super-data-analytics) | Pipelines, BI dashboards, SQL optimisation, metrics, data quality, and analytics workflows. |
+| [super-product-business-finance](https://github.com/arpitexplores/super-product-business-finance) | Market sizing, startup analysis, pricing, monetisation, roadmap decisions, and PM frameworks. |
+| [super-office-docs-presentation](https://github.com/arpitexplores/super-office-docs-presentation) | Documents, PDFs, presentations, spreadsheets, documentation systems, templates, and productivity automation. |
+| [super-legal-hr-compliance](https://github.com/arpitexplores/super-legal-hr-compliance) | Contracts, policies, HR processes, obligations, internal comms, and non-security regulatory guidance. |
+| [super-industry-ops](https://github.com/arpitexplores/super-industry-ops) | Logistics, manufacturing, procurement, production scheduling, supply chain workflows, and operational quality. |
 
 Start with the skill that matches the task. Use the catalogue when you want to browse the full collection or install multiple skills.
 
 ### Additional SUPER Skills In The Catalogue
 
-The full catalogue also includes data analytics, design quality, gaming/3D/media, healthcare/wellness, industry ops, legal/HR/compliance, marketing strategy, office/docs/presentation, product/business/finance, and specialised platform SDK skills.
+The full catalogue also includes design quality, gaming/3D/media, healthcare/wellness, marketing strategy, and specialised platform SDK skills.
 
 ## Version
 
