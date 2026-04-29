@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Industry Ops"
+  short_description: "Logistics, procurement, and operations"
+  default_prompt: "Use $super-industry-ops to help with this request."

@@ -1,0 +1,22 @@
+{
+  "name": "super-industry-ops",
+  "title": "Super Industry Operations",
+  "description": "Industry-specific operations: logistics, manufacturing, procurement, and quality workflows.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "Energy Procurement",
+      "path": "references/modules/energy-procurement.md"
+    },
+    {
+      "name": "Logistics Exception Management",
+      "path": "references/modules/logistics-exception-management.md"
+    },
+    {
+      "name": "Production Scheduling",
+      "path": "references/modules/production-scheduling.md"
+    }
+  ]
+}
