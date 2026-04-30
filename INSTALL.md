@@ -2,7 +2,19 @@
 
 SUPER Skills are portable Markdown skills. Install the skill folder into any AI agent setup that supports local skill files, custom instruction folders, or reusable Markdown workflows.
 
-## Install One Skill
+## Download ZIP
+
+If you do not use git:
+
+1. Open this GitHub repository.
+2. Select **Code**.
+3. Select **Download ZIP**.
+4. Unzip the download.
+5. Rename the extracted folder from `super-industry-ops-main` to `super-industry-ops`.
+6. Copy the renamed `super-industry-ops` folder into your agent's skills directory.
+7. Restart or reload your agent.
+
+## Install One Skill With A Terminal
 
 Copy the full skill folder into your agent's skills directory:
 
