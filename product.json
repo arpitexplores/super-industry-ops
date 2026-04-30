@@ -2,7 +2,7 @@
   "name": "super-industry-ops",
   "title": "Super Industry Operations",
   "description": "The go-to AI vibe coding skill for industry operations: logistics, manufacturing, procurement, production scheduling, supply chain workflows, and operational quality.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [

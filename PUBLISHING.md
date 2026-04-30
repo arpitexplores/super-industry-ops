@@ -7,7 +7,7 @@ This folder is a standalone product export for `super-industry-ops`.
 - Publish this folder as its own repository when the skill needs separate issues, releases, documentation, or branding.
 - Keep `SKILL.md` as the installable entry point.
 - Keep `references/modules/` bundled so the skill works without the master catalogue.
-- Keep `README.md`, `CHANGELOG.md`, `VERSION`, and `examples/` updated for every release.
+- Keep `README.md`, `INSTALL.md`, `CHANGELOG.md`, `VERSION`, and `examples/` updated for every release.
 
 ## Suggested Repository Name
 
@@ -15,7 +15,7 @@ This folder is a standalone product export for `super-industry-ops`.
 
 ## Suggested First Release
 
-`v0.1.0`
+`v1.0.0`
 
 ## Sync Rule
 
